@@ -1,1 +1,1 @@
-{"format":"sokker-junior-lookup","version":3,"generatedAt":"2026-10-04T23:47:37.644Z","juniorWeek":1212,"fields":["juniorId","fullName","age","firstSeenWeek","lastSeenWeek","flags","departedWeek","trainingEndWeek"],"buckets":256,"teamCount":5093,"count":141319}
+{"format":"sokker-junior-lookup","version":3,"generatedAt":"2026-10-09T23:42:55.109Z","juniorWeek":1213,"fields":["juniorId","fullName","age","firstSeenWeek","lastSeenWeek","flags","departedWeek","trainingEndWeek","seniorId"],"buckets":256,"teamCount":5093,"count":141319}
